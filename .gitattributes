@@ -3,4 +3,5 @@
 *.java linguist-detectable=true 
 *.kotlin linguist-detectable=true
 *.html linguist-detectable=true  
-*.swift linguist-detectable=true 
+*.swift linguist-detectable=true
+*.ruby linguist-detectable=false
